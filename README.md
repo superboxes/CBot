@@ -5,7 +5,7 @@
 Install D++ for your OS by visiting [this](https://dpp.dev/md_docpages_01_installing.html) website
 
 ## Coding the bot
-Code the bot as shown in the D++ website or use the source code in this repository.
+Code the bot as shown in the [D++ website](https://dpp.dev/) or use the source code in this repository.
 
 ## Compiling it
 
