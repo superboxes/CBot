@@ -1,5 +1,5 @@
 # CBot
-This is a super simple bot coded with c++ using the super fast library of dpp/
+This is a super simple bot coded with c++ using the super fast library of dpp
 
 Here's a simple tutorial on how to compile & run this bot.
 
